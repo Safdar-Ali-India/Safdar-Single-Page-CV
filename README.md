@@ -5,7 +5,11 @@ Created a single-page HTML CV to showcase my career history
 https://roadmap.sh/projects/single-page-cv
 
 # The Result
- 
+
+![CV Result image](images/cv-Final-Result.png)
+
+This is a single-page CV project created using HTML.
+
 
 # Other Resources to complete this document:
 I use these resources to create such a cv projects:
