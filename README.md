@@ -6,7 +6,8 @@ https://roadmap.sh/projects/single-page-cv
 
 # The Result
 
-![CV Result image](images/cv-Final-Result.png)
+![CV Result image](https://github.com/Safdar-Ali-India/Safdar-Single-Page-CV/blob/main/Final%20Result.png?raw=true)
+
 
 This is a single-page CV project created using HTML.
 
